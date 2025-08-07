@@ -6,7 +6,7 @@
 
 ## About Me
 
-### 💻 Full-Stack Developer | 🎨 UI/UX Designer | 🧠 Psychology Enthusiast
+### 💻 Full-Stack Developer | 🧠 Psychology Enthusiast
 
 I'm a passionate and dedicated developer who loves building clean, scalable, and user-friendly applications. I enjoy blending logical backend systems with intuitive front-end design — making things not only work well but look and feel right too.
 
