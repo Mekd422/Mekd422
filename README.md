@@ -6,7 +6,7 @@
 
 ## About Me
 
-### 💻 Full-Stack Developer | 🧠 Psychology Enthusiast
+### 💻 Full-Stack Developer 
 
 ## Connect with Me
 
