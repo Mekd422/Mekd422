@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Mekdes (Full-Stack Developer)
 
 ## About Me
-I am a passionate **Full-Stack Developer** who loves building clean, responsive, and scalable web applications. I enjoy working across the stack, from designing user-friendly interfaces to building robust backends and APIs. I value clean code, testing, and thoughtful UX.
+I enjoy working across the stack, from designing user-friendly interfaces to building robust backends and APIs. I value clean code, testing, and thoughtful UX.
 ---
 
 ## Contact & Profiles
