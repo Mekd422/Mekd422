@@ -1,11 +1,5 @@
 #  Mekdes Assefa | Software Engineer 
 
-<p align="center">
-  <a href="https://github.com/Mekd422">
-    <img src="https://github-readme-stats.vercel.app/api?username=Mekd422&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Mekdes's GitHub Stats"/>
-  </a>
-</p>
-
 ## About Me
 I enjoy working across the stack, from designing user-friendly interfaces to building robust backends and APIs. I value clean code, testing, and thoughtful UX.
 ---
