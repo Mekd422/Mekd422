@@ -68,9 +68,7 @@ I enjoy working across the stack, from designing user-friendly interfaces to bui
 <img src="https://ghchart.rshah.org/409ba5/Mekd422" alt="Contribution Calendar" width="100%"/>
 
 ## Contact & Profiles
-If you’d like to work with me or want to say hi, feel free to reach out:
-
-- Telegram: https://t.me/mekd_assefa
+feel free to reach out:
 - Email: mekdesassefa715@gmail.com
 - Linkedin: https://www.linkedin.com/in/mekdes-assefa-44b94a31b/
 
